@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+    <h1>Cocktail catalog</h1>
+    {{ pagination.links }}
+    {% for cocktail in cocktails %}
+        {% include 'bar/cocktails_img.html' %}
+    {% endfor %}
+    {{ pagination.links }}
+{% endblock %}
+

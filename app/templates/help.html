@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+    <h1>{{ _('Help') }}</h1>
+    <br>
+    <h4 class="font-weight-bold ">{{ _('What is this web for') }} ?</h4>
+    <ul>
+        <li>{{ _('This web serves as an application for a CBR system. The purpose of this work is to recommend cocktails according to a set of ingredients') }}.</li>
+    </ul>
+    <br>
+    <h4 class="font-weight-bold">{{ _('Where can I find the cocktails') }} ?</h4>
+    <ul>
+        <li>{{ _('There is a catalog with more than 100 cocktail recipes in "Cocktail" tab') }}.</li>
+    </ul>
+    <br>
+    <h4 class="font-weight-bold">{{ _('What happens if the cocktail that I want is not in the catalog') }}?</h4>
+    <ul>
+        <li>{{ _('This is not a problem, in "Specially for you" you can choose the ingredients that you want for your cocktail and we will provide you a recipe') }}.</li>
+    </ul>
+    <br>
+    <h4 class="font-weight-bold">{{ _('How many ingredients can I choose') }}?</h4>
+    <ul>
+        <li>{{ _('You can choose as many you want with a minimum of 2 ingredients') }}.</li>
+    </ul>
+    <br>
+    <h4 class="font-weight-bold">{{ _('After receiving a personalized recipe I noticed that I am allergic to some ingredients, what can I do') }}?</h4>
+    <ul>
+        <li>
+            {{ _('Just email us to cocktailmasters@barkeeper.com and we will provide you a new recipe according to your needs') }}.
+        </li>
+    </ul>
+    <br>
+    <h4>{{ _('Can I trust the recommended recipe') }} ?</h4>
+    <ul>
+        <li>{{ _('Most of the time we offer feasible recipes, however it may happen that the recipe does not follow what you are looking for') }}.
+            {{ _('For that reason we ask for your opinion. In that way you can help us to keep improving') }}!</li>
+    </ul>
+{% endblock %}
+

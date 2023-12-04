@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+<div>
+    <h1>{{ _('Messages') }}</h1>
+    <p>
+        {% if user == current_user %}
+            <a class="btn btn-default" href="{{ url_for('messagess.send_message') }}">{{ _('Send message') }}</a>
+        {% endif %}
+        {% if user == current_user %}
+            <a class="btn btn-default" href="{{ url_for('messagess.received_messages') }}">{{ _('Read messages') }}</a>
+        {% endif %}
+    </p>
+</div>
+{% endblock %}

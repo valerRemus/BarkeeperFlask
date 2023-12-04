@@ -1,0 +1,8 @@
+<p>{{ _('Dear') }} {{ user.username }},</p>
+<p>{{ _('Welcome to') }}<b>Barkeeper</b>!</p>
+<p>{{ _('To confirm your account please') }}<a href="{{ url_for('auth.confirm', token=token, _external=True) }}">{{ _('click here') }}</a>.</p>
+<p>{{ _('Alternatively, you can paste the following link in your browsers address bar') }}:</p>
+<p>{{ url_for('auth.confirm', token=token, _external=True) }}</p>
+<p>{{ _('Sincerely') }},</p>
+<p>Barkeeper INC</p>
+<p><small>{{ _('Note: replies to this email address are not monitored') }}.</small></p>

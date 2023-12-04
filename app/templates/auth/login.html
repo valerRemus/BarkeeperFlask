@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}Barkeeper - {{ _('Login') }}{% endblock %}
+
+{% block page_content %}
+    <div class="page-header">
+        <h1>{{ _('Login') }}</h1>
+    </div>
+    <div class="col-md-4">
+        {{ wtf.quick_form(form) }}
+        <br>
+        <p>{{ _('Forgot your password') }}?<a href="{{ url_for('auth.password_reset_request') }}">{{ _('Click here to reset it') }}</a>.</p>
+        <p>
+            {{ _('New user') }}?
+            <a href="{{ url_for('auth.register') }}"> {{ _('Click here to register') }} </a>
+
+        </p>
+    </div>
+
+
+{% endblock %}

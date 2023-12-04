@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block title %}Barkeeper - Messages{% endblock %}
+
+{% block app_content %}
+
+<div>
+  <h1>{{ _('Received Messages') }}</h1>
+  {% if messages %}
+    <div class="message-container">
+      {% for message in messages %}
+        <div class="message-box {% if message.read %}read{% else %}unread{% endif %}">
+          <div class="message-header">
+            <span class="sender-name">{{ message.sender.username }}</span>
+            <span class="message-status">
+              {% if message.read %}{{ _('Read') }}{% else %}{{ _('Unread') }}{% endif %}
+            </span>
+          </div>
+          <div class="message-content">
+            <a href="{{ url_for('messagess.message_details', message_id=message.id) }}">
+              {{ _('View Message') }}
+            </a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p>{{ _('No messages received') }}</p>
+  {% endif %}
+</div>
+
+
+{% endblock %}

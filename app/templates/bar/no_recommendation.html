@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+    <a id="submit" role="button" class="btn btn-default" href="{{ url_for('bar.specially4you') }}">{{ _('Go Back to the Form') }}</a>
+    <div class="text-center"></div>
+    <h1>{{ _('No recipe found') }}</h1>
+    <div class="alert alert-danger" role="alert">
+      {{ _('We could not found any cocktail recipe with these ingredients') }}: {{ user_query }}
+    </div>
+{% endblock %}

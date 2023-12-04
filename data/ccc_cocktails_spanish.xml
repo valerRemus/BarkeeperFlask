@@ -1,0 +1,916 @@
+<?xml version="1.0"?>
+<recipes>
+    <recipe>
+  <title>Ti'punch</title>
+  <ingredients>
+    <ingredient quantity="6" unit="cl" food="ron blanco">6 cl de ron blanco</ingredient>
+    <ingredient quantity="2" unit="cl" food="jarabe">2 cl de jarabe de caña</ingredient>
+    <ingredient quantity="1" unit="" food="lima">1 rodaja de lima</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Lava una lima, quita la parte superior e inferior, y córtala en rodajas finas en forma de medias lunas. Agrega las rodajas de lima al vaso y aplástalas con el extremo plano de una cuchara de bar.</step>
+    <step>Añade el ron y el jarabe de caña, agrega hielo triturado y mezcla. Añade una pajilla corta y sirve.</step>
+  </preparation>
+</recipe>
+    <recipe>
+  <title>Cóctel Exótico de Maracuyá</title>
+  <ingredients>
+    <ingredient quantity="1" unit="l" food="limonada">1 l de limonada</ingredient>
+    <ingredient quantity="35" unit="cl" food="curaçao azul">35 cl de curaçao azul</ingredient>
+    <ingredient quantity="35" unit="l" food="jarabe de maracuyá">35 cl de jarabe de maracuyá</ingredient>
+    <ingredient quantity="20" unit="cl" food="jugo de limón">20 cl de jugo de limón</ingredient>
+    <ingredient quantity="5" unit="" food="cubos de hielo">5 cubos de hielo</ingredient>
+  </ingredients>
+  <preparation>
+    <step>En una coctelera, combina el jarabe de maracuyá, el curaçao azul, el jugo de limón y el jarabe de maracuyá.</step>
+    <step>Agita bien y vierte la mezcla en un recipiente.</step>
+    <step>Revuelve con 1 litro de limonada y mezcla bien.</step>
+    <step>Agrega 5 cubos de hielo y sirve.</step>
+  </preparation>
+</recipe>
+    <recipe>
+  <title>Builder</title>
+  <ingredients>
+    <ingredient quantity="1" unit="" food="pepino">1 pepino</ingredient>
+    <ingredient quantity="1" unit="" food="limón">1 limón</ingredient>
+    <ingredient quantity="2" unit="" food="cucharadas soperas de azúcar">2 cucharadas soperas de azúcar</ingredient>
+    <ingredient quantity="3" unit="" food="cubos de hielo">3 cubos de hielo</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla un pepino en una centrífuga, agrega el jugo de limón, el azúcar y los cubos de hielo.</step>
+    <step>Sirve en un vaso decorado con una rodaja de limón.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel de Frambuesa</title>
+  <ingredients>
+    <ingredient quantity="450" unit="g" food="frambuesa">450 g de frambuesas</ingredient>
+    <ingredient quantity="75" unit="cl" food="azúcar de caña">75 cl de azúcar de caña</ingredient>
+    <ingredient quantity="50" unit="cl" food="kirsch">50 cl de kirsch</ingredient>
+    <ingredient quantity="1" unit="l" food="Limonada">1 l de Limonada</ingredient>
+    <ingredient quantity="1" unit="" food="limón">1 limón</ingredient>
+    <ingredient quantity="225" unit="cl" food="Crémant">225 cl de Crémant</ingredient>
+  </ingredients>
+  <preparation>
+    <step>El día anterior: coloca las frambuesas, rodajas de limón, 3 vasos de jarabe de azúcar de caña, kirsch y la mitad de la limonada en un recipiente grande y marina en la nevera.</step>
+    <step>Pon el resto de la limonada y las botellas de vino espumoso en la nevera.</step>
+    <step>Justo antes de servir:</step>
+    <step>Añade a la preparación del día anterior el resto de la limonada y las botellas de Crémant. Prueba y agrega azúcar de caña si es necesario, ya que algunos Crémants pueden ser más amargos que otros.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel para Enamorados</title>
+  <ingredients>
+    <ingredient quantity="12" unit="cl" food="Jugo de Naranja">12 cl de Jugo de Naranja</ingredient>
+    <ingredient quantity="18" unit="cl" food="cointreau">18 cl de cointreau</ingredient>
+    <ingredient quantity="10" unit="cl" food="cognac">10 cl de cognac</ingredient>
+    <ingredient quantity="3" unit="cl" food="granadine">3 cl de granadina</ingredient>
+    <ingredient quantity="10" unit="cl" food="champagne">10 cl de champagne</ingredient>
+    <ingredient quantity="10" unit="" food="frambuesa">10 frambuesas</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla todos los ingredientes (si es posible, ponlos en el refrigerador con anticipación) con una cuchara o coctelera.</step>
+    <step>Agrega las frambuesas justo antes de servir (así conservarán su consistencia) o una hora antes si prefieres que estén bien impregnadas.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Beso de Coco</title>
+  <ingredients>
+    <ingredient quantity="3" unit="cl" food="jugo de piña">3 cl de jugo de piña</ingredient>
+    <ingredient quantity="4" unit="cl" food="jugo de naranja">4 cl de jugo de naranja</ingredient>
+    <ingredient quantity="2" unit="cl" food="jarabe de coco">2 cl de jarabe de coco</ingredient>
+    <ingredient quantity="3" unit="cl" food="crema agria">3 cl de crema agria</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla los jugos, jarabes y crema agria en una coctelera.</step>
+    <step>Sirve en un vaso con una rodaja de piña y una rodaja de naranja como decoración.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Shot de Especias</title>
+  <ingredients>
+    <ingredient quantity="3" unit="cl" food="Grenadine">3 cl de Grenadina</ingredient>
+    <ingredient quantity="1" unit="" food="salsa tabasco">salsa tabasco al gusto</ingredient>
+    <ingredient quantity="6" unit="cl" food="vodka">6 cl de vodka</ingredient>
+  </ingredients>
+  <preparation>
+    <step>En un vaso pequeño (aproximadamente 4 cm de diámetro y 5 cm de alto), agrega 3 mm de sirope de grenadina.</step>
+    <step>Añade 4-6 gotas de salsa tabasco, luego vierte lentamente 2-3 cm de vodka (frío, de preferencia), para que los ingredientes no se mezclen.</step>
+    <step>Este cóctel se bebe "al seco". Al principio, se siente relativamente poco alcohol debido a la grenadina en el vaso. Después de unos segundos, sentirás el picante del tabasco.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Martini</title>
+  <ingredients>
+    <ingredient quantity="1" unit="l" food="martini">1 l de martini</ingredient>
+    <ingredient quantity="2" unit="l" food="frutas cítricas">2 l de frutas cítricas</ingredient>
+    <ingredient quantity="1" unit="" food="limón">1 limón</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mézcla los líquidos. Corta el limón en trozos y agrégalo. Sirve frío con hielo.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Chispeante de Fresa y Lima (sin alcohol)</title>
+  <ingredients>
+    <ingredient quantity="400" unit="g" food="fresa">400 g de fresas</ingredient>
+    <ingredient quantity="2" unit="cdt" food="azúcar">2 cucharaditas de azúcar</ingredient>
+    <ingredient quantity="10" unit="cl" food="jugo de lima">10 cl de jugo de lima</ingredient>
+    <ingredient quantity="30" unit="cl" food="Limonada">30 cl de Limonada</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Lava y quita los tallos de las fresas. Tritúralas. Agrega el jugo de lima y la limonada, y mezcla. Tritura nuevamente. Reserva y refrigera hasta el momento de servir.</step>
+    <step>¡Y listo, está terminado!</step>
+    <step>¡Disfrútalo!}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Cítrico sin Alcohol</title>
+  <ingredients>
+    <ingredient quantity="6" unit="cl" food="Jugo de Naranja">6 cl de Jugo de Naranja</ingredient>
+    <ingredient quantity="5" unit="cl" food="jugo de limón">5 cl de jugo de limón</ingredient>
+    <ingredient quantity="2" unit="" food="fresa">2 fresas</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mide cada uno de los ingredientes y viértelos en una coctelera. Agita bien. Vierte en una copa de cóctel o copa de champán. Repite la operación para cada persona.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Citrouillette (Cóctel de Champán)</title>
+  <ingredients>
+    <ingredient quantity="4" unit="cl" food="Noilly_Prat">4 cl de Noilly Prat</ingredient>
+    <ingredient quantity="8" unit="cl" food="champán">8 cl de champán</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Vierte el Noilly Prat en una copa y añade el champán bien frío.</step>
+    <step>El sabor es excelente.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Grand Paradis</title>
+  <ingredients>
+    <ingredient quantity="1" unit="cl" food="cognac">1 cl de cognac</ingredient>
+    <ingredient quantity="5" unit="cl" food="jugo de albaricoque">5 cl de jugo de albaricoque</ingredient>
+    <ingredient quantity="10" unit="cl" food="champán">10 cl de champán</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla en una coctelera el cognac y el jugo de albaricoque.</step>
+    <step>Vierte en una copa (tipo tulipán) y llena con champán.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Red Lion</title>
+  <ingredients>
+    <ingredient quantity="2" unit="cl" food="Whiskey">2 cl de Whiskey</ingredient>
+    <ingredient quantity="2" unit="cl" food="Creme de cassis">2 cl de Creme de cassis</ingredient>
+    <ingredient quantity="0.5" unit="cl" food="Benedictine">0.5 cl de Benedictine</ingredient>
+    <ingredient quantity="0.5" unit="cl" food="pastis">0.5 cl de pastis</ingredient>
+    <ingredient quantity="1" unit="" food="cubos de hielo">1 cubo de hielo</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Llena una coctelera con hielo y vierte los diferentes licores. Cierra y agita enérgicamente durante unos segundos.</step>
+    <step>Sirve.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Bacardi</title>
+  <ingredients>
+    <ingredient quantity="24" unit="cl" food="ron">24 cl de ron</ingredient>
+    <ingredient quantity="6" unit="cl" food="sirope de grenadina">6 cl de sirope de grenadina</ingredient>
+    <ingredient quantity="12" unit="cl" food="jugo de limón">12 cl de jugo de limón</ingredient>
+  </ingredients>
+  <preparation>
+    <step>1. Pon el ron, el sirope de grenadina y el jugo de limón en una coctelera. Agita.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Balalaika</title>
+  <ingredients>
+    <ingredient quantity="4" unit="cl" food="vodka">4 cl de vodka</ingredient>
+    <ingredient quantity="2" unit="cl" food="cointreau">2 cl de cointreau</ingredient>
+    <ingredient quantity="4" unit="cl" food="jugo de limón">4 cl de jugo de limón</ingredient>
+    <ingredient quantity="1" unit="" food="limón">1 limón</ingredient>
+    <ingredient quantity="2" unit="" food="cubos de hielo">2 cubos de hielo</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Vierte el alcohol y el jugo de limón en un vaso alto sobre hielo.</step>
+    <step>Decora con rodajas de limón.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Raifortissimo</title>
+  <ingredients>
+    <ingredient quantity="5" unit="cl" food="jugo de manzana">5 cl de jugo de manzana</ingredient>
+    <ingredient quantity="3" unit="cl" food="jugo de limón verde">3 cl de jugo de limón verde</ingredient>
+    <ingredient quantity="10" unit="g" food="wasabi">10 g de wasabi</ingredient>
+    <ingredient quantity="1" unit="" food="kiwi">1 kiwi</ingredient>
+    <ingredient quantity="3" unit="" food="cubos de hielo">3 cubos de hielo</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Tritura el kiwi, agrega los jugos, el wasabi y los cubos de hielo.</step>
+    <step>Sirve en un vaso.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Cranberry-Naranja</title>
+  <ingredients>
+    <ingredient quantity="25" unit="cl" food="jugo de arándano">25 cl de jugo de arándano</ingredient>
+    <ingredient quantity="10" unit="cl" food="jugo de naranja">10 cl de jugo de naranja</ingredient>
+    <ingredient quantity="150" unit="g" food="frambuesa">150 g de frambuesas</ingredient>
+    <ingredient quantity="2" unit="" food="limón">2 limones</ingredient>
+    <ingredient quantity="1" unit="cucharadita" food="jugo de limón">1 cucharadita de jugo de limón</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla los dos jugos.</step>
+    <step>Agrega las frambuesas y el jugo de limón.</step>
+    <step>Tritura todo hasta obtener una mezcla homogénea.</step>
+    <step>Sirve frío o con cubos de hielo.</step>
+    <step>Decora los vasos con una rodaja de limón o naranja.</step>
+    <step>¡Por tu salud!}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Piña Colada (cóctel)</title>
+  <ingredients>
+    <ingredient quantity="125" unit="g" food="ron malibu">125 g de ron malibu</ingredient>
+    <ingredient quantity="150" unit="g" food="crema para batir">150 g de crema para batir</ingredient>
+    <ingredient quantity="20" unit="cl" food="jugo de piña">20 cl de jugo de piña</ingredient>
+    <ingredient quantity="20" unit="cl" food="ron blanco">20 cl de ron blanco</ingredient>
+    <ingredient quantity="0" unit="" food="cubos de hielo">cubos de hielo</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Pon todos los ingredientes excepto los cubos de hielo en una licuadora y mezcla a alta velocidad durante unos 30 segundos.</step>
+    <step>Pon cubos de hielo en los vasos y vierte la crema obtenida sobre ellos.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Coconut Cocktail Lovers</title>
+  <ingredients>
+    <ingredient quantity="1" unit="" food="coco">1 coco</ingredient>
+    <ingredient quantity="10" unit="cl" food="ron blanco">10 cl de ron blanco</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Perfora el coco en 3 lugares en la parte superior y drena el agua que está adentro.</step>
+    <step>Llena por completo con ron blanco.</step>
+    <step>Tapona los agujeros recortando un corcho y sella vertiendo cera de vela encima. Guarda de pie en el refrigerador durante 3 semanas.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Aperitivo</title>
+  <ingredients>
+    <ingredient quantity="2" unit="l" food="vino blanco seco">2 l de vino blanco seco</ingredient>
+    <ingredient quantity="200" unit="g" food="azúcar">200 g de azúcar</ingredient>
+    <ingredient quantity="2" unit="" food="limón">2 limones</ingredient>
+    <ingredient quantity="2" unit="" food="naranja">2 naranjas</ingredient>
+    <ingredient quantity="30" unit="cl" food="ron">30 cl de ron</ingredient>
+    <ingredient quantity="1" unit="bottle" food="agua con gas">75 cl de agua con gas</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla todos los ingredientes y sirve frío.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Porto Flip</title>
+  <ingredients>
+    <ingredient quantity="4" unit="cl" food="porto">4 cl de oporto</ingredient>
+    <ingredient quantity="2" unit="cl" food="cognac">2 cl de coñac</ingredient>
+    <ingredient quantity="1" unit="" food="huevo">1 huevo</ingredient>
+    <ingredient quantity="0" unit="" food="canela">canela</ingredient>
+    <ingredient quantity="0" unit="" food="nuez moscada">nuez moscada</ingredient>
+    <ingredient quantity="2" unit="" food="sirope de azúcar de caña">2 cl de sirope de azúcar de caña</ingredient>
+    <ingredient quantity="0" unit="" food="cubos de hielo">cubos de hielo</ingredient>
+  </ingredients>
+  <preparation>
+    <step>En una coctelera, pon el alcohol y el sirope de caña. Luego agrega las especias. Mezcla con una cuchara larga.</step>
+    <step>Añade el huevo y los cubos de hielo. Cierra la coctelera y mezcla.</step>
+    <step>Sirve en una copa de cóctel, espolvorea un poco de canela.</step>
+    <step>También se puede hacer solo con oporto.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Shoot Up</title>
+  <ingredients>
+    <ingredient quantity="1" unit="cl" food="Mangalore">1 cl de Mangalore</ingredient>
+    <ingredient quantity="8" unit="cl" food="agua con gas">8 cl de agua con gas</ingredient>
+    <ingredient quantity="3" unit="cl" food="jarabe de albaricoque">3 cl de jarabe de albaricoque</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla el jarabe y el Mangalore.</step>
+    <step>Luego llena el vaso con agua con gas fresca.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>El Beso de Pitufina</title>
+  <ingredients>
+    <ingredient quantity="2" unit="cl" food="vodka">2 cl de vodka</ingredient>
+    <ingredient quantity="2" unit="cl" food="Blue curacao">2 cl de Blue curacao</ingredient>
+    <ingredient quantity="5" unit="cl" food="Limonada">5 cl de Limonada</ingredient>
+    <ingredient quantity="5" unit="cl" food="Jugo de Banana">5 cl de Jugo de Banana</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Vierte todos los ingredientes en orden en una copa martini o cóctel y sirve muy, muy fresco.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Islas Praslin</title>
+  <ingredients>
+    <ingredient quantity="40" unit="cl" food="jugo de mango">40 cl de jugo de mango</ingredient>
+    <ingredient quantity="30" unit="cl" food="jugo de piña">30 cl de jugo de piña</ingredient>
+    <ingredient quantity="20" unit="l" food="jugo de fruta de la pasión">20 cl de jugo de fruta de la pasión</ingredient>
+    <ingredient quantity="10" unit="cl" food="jugo de lima">10 cl de jugo de lima</ingredient>
+    <ingredient quantity="15" unit="g" food="azúcar">15 g de azúcar</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla todo en una botella.</step>
+    <step>Agita bien durante unos 20 segundos y refrigéralo antes de servir.</step>
+    <step>Sirve en vasos altos y cóctel con pajitas de colores bonitos.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Arreglado con Ron de Manzana</title>
+  <ingredients>
+    <ingredient quantity="25" unit="cl" food="ron">25 cl de ron</ingredient>
+    <ingredient quantity="1" unit="l" food="jugo de manzana">1 l de jugo de manzana</ingredient>
+    <ingredient quantity="10" unit="cl" food="azúcar de caña">10 cl de azúcar de caña</ingredient>
+    <ingredient quantity="0" unit="" food="canela">canela</ingredient>
+  </ingredients>
+  <preparation>
+    <step>En una botella, mezcla 25 cl de ron oscuro con un litro de jugo de manzana y completa con un chorro de azúcar de caña.</step>
+    <step>Aromatiza con canela u otros sabores según tus gustos, luego deja reposar al menos un día para que la maceración esté completa.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Gin Fizz Fácil</title>
+  <ingredients>
+    <ingredient quantity="6" unit="cl" food="Gin">6 cl de gin</ingredient>
+    <ingredient quantity="3" unit="cl" food="lima">3 cl de lima</ingredient>
+    <ingredient quantity="1" unit="cucharadita" food="azúcar de caña">1 cucharadita de azúcar de caña</ingredient>
+    <ingredient quantity="5" unit="cl" food="agua con gas">5 cl de agua con gas</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Pon todos los ingredientes en una coctelera y agita vigorosamente hasta que las paredes de la coctelera se empañen.</step>
+    <step>Vierte el contenido de la coctelera en dos vasos con agua con gas y luego acuéstate.</step>
+    <step>Sirve frío con hielo triturado, una pajita y una rodaja de lima.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel de Sidra</title>
+  <ingredients>
+    <ingredient quantity="9" unit="cl" food="sidra fuerte">9 cl de sidra fuerte</ingredient>
+    <ingredient quantity="2" unit="cl" food="Creme de cassis">2 cl de Creme de cassis</ingredient>
+    <ingredient quantity="2" unit="cl" food="cointreau">2 cl de cointreau</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla el cassis y el Cointreau.</step>
+    <step>Mantén frescos todos los ingredientes.</step>
+    <step>En el último minuto, agrega la sidra.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Punch del Planter</title>
+  <ingredients>
+    <ingredient quantity="4" unit="cl" food="ron oscuro">4 cl de ron oscuro</ingredient>
+    <ingredient quantity="2" unit="cl" food="jugo de limón">2 cl de jugo de limón</ingredient>
+    <ingredient quantity="10" unit="cl" food="jugo de naranja">10 cl de jugo de naranja</ingredient>
+    <ingredient quantity="2" unit="cl" food="sirope de caña">2 cl de sirope de caña</ingredient>
+    <ingredient quantity="1" unit="cl" food="Grenadine">1 cl de sirope de granadina</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Vierte el ron, la granadina y el jugo de limón en un vaso mezclador lleno de cubos de hielo.</step>
+    <step>Agita bien.</step>
+    <step>Cuela en un vaso highball lleno de cubos de hielo.</step>
+    <step>Agrega el sirope de granadina.}}</step>
+  </preparation>
+</recipe>
+  <recipe>
+    <title>Coconut cocktail</title>
+    <ingredients>
+      <ingredient quantity="30" unit="cl" food="vodka">30 cl vodka</ingredient>
+      <ingredient quantity="1" unit="l" food="rice milk">1 l rice milk</ingredient>
+      <ingredient quantity="2" unit="l" food="coconut">2 l coconut</ingredient>
+      <ingredient quantity="30" unit="g" food="ice cream">30 g Vanilla ice cream</ingredient>
+      <ingredient quantity="10" unit="cl" food="cane sugar">10 cl cane sugar</ingredient>
+      <ingredient quantity="5" unit="" food="ice cube">5 ice cubes</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Put everything in a blender and enjoy.}}</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Coctel de Nuez, Café y Coco</title>
+    <ingredients>
+      <ingredient quantity="2" unit="cl" food="ron malibú">2 cl de ron malibú</ingredient>
+      <ingredient quantity="2" unit="cl" food="leche de coco">2 cl de leche de coco</ingredient>
+      <ingredient quantity="2" unit="cl" food="jugo de tamarindo">2 cl de jugo de tamarindo</ingredient>
+      <ingredient quantity="15" unit="cl" food="café">15 cl de café</ingredient>
+      <ingredient quantity="1" unit="cl" food="jarabe de azúcar de caña">1 cl de jarabe de azúcar de caña</ingredient>
+      <ingredient quantity="5" unit="" food="hielo">5 cubos de hielo</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Coloca los ingredientes en una coctelera. Agita vigorosamente con ambas manos la coctelera y los tapones.</step>
+      <step>Vierte en vasos de cóctel bonitos. Decora esta preparación con polvo de avellanas.</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Gotas de Enjuague (Cóctel)</title>
+    <ingredients>
+      <ingredient quantity="1" unit="l" food="sidra de manzana">1 l de sidra de manzana</ingredient>
+      <ingredient quantity="25" unit="cl" food="coñac">25 cl de coñac</ingredient>
+      <ingredient quantity="25" unit="cl" food="crema de cassis">25 cl de crema de cassis</ingredient>
+      <ingredient quantity="0" unit="" food="hielo">hielo</ingredient>
+    </ingredients>
+    <preparation>
+      <step>En un recipiente grande, comienza poniendo la crema de cassis, luego agrega el coñac y finalmente la botella de sidra.</step>
+      <step>Agrega hielo al final para mantener la bebida fresca.</step>
+    </preparation>
+  </recipe>
+    <recipe>
+    <title>Cóctel MAP</title>
+    <ingredients>
+      <ingredient quantity="4" unit="cl" food="Martini blanco">4 cl de Martini blanco</ingredient>
+      <ingredient quantity="1" unit="cl" food="Angostura bitter">1 cl de Angostura bitter</ingredient>
+      <ingredient quantity="8" unit="cl" food="jugo de pomelo">8 cl de jugo de pomelo</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Coloca las copas en el congelador.</step>
+      <step>Exprime el pomelo o abre la botella o cartón...</step>
+      <step>Vierte un tercio de Martini, dos tercios de jugo de pomelo y 1 pizca de Angostura.</step>
+      <step>Para la decoración: coloca una cáscara en cada vaso con semillas de amapola y azúcar dorada horneada, pero empapada en amor y, por supuesto... MAP</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Mojito con Albahaca</title>
+    <ingredients>
+      <ingredient quantity="5" unit="cl" food="ron blanco">5 cl de ron blanco</ingredient>
+      <ingredient quantity="10" unit="cl" food="agua con gas">10 cl de agua con gas</ingredient>
+      <ingredient quantity="5" unit="cl" food="jarabe de azúcar de caña">5 cl de jarabe de azúcar de caña</ingredient>
+      <ingredient quantity="1" unit="cdta" food="azúcar moreno">1 cdta de azúcar moreno</ingredient>
+      <ingredient quantity="1" unit="" food="limón">1 limón</ingredient>
+      <ingredient quantity="0" unit="" food="albahaca anís">albahaca anís</ingredient>
+      <ingredient quantity="0" unit="" food="cubos de hielo">cubos de hielo</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Corta una rodaja de limón y colócala en el fondo del vaso de cóctel. Coloca el hielo en un paño limpio y machácalo con un martillo. Corta las hojas de albahaca en trozos pequeños y mézclalas con el hielo triturado.</step>
+      <step>Llena el vaso con 2/3 de hielo triturado y coloca encima 5 cl de ron, 5 cl de jarabe de azúcar líquido y el jugo del limón restante, luego completa con agua con gas.</step>
+      <step>Esparce azúcar moreno.</step>
+    </preparation>
+  </recipe>
+    <recipe>
+    <title>Cóctel Huerto</title>
+    <ingredients>
+      <ingredient quantity="4" unit="cl" food="licor de albaricoque">4 cl de licor de albaricoque</ingredient>
+      <ingredient quantity="5" unit="cl" food="licor de manzana">5 cl de licor de manzana</ingredient>
+      <ingredient quantity="12" unit="cl" food="jugo de pera">12 cl de jugo de pera</ingredient>
+      <ingredient quantity="3" unit="" food="cubos de hielo">3 cubos de hielo</ingredient>
+    </ingredients>
+    <preparation>
+      <step>En una copa de cóctel grande, coloca los 3 cubos de hielo.</step>
+      <step>Vierte cada ingrediente en el orden mencionado anteriormente.</step>
+      <step>Mezcla bien y ¡disfruta!</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Cóctel Pomenas</title>
+    <ingredients>
+      <ingredient quantity="20" unit="cl" food="jugo de toronja">20 cl de jugo de toronja</ingredient>
+      <ingredient quantity="20" unit="cl" food="jugo de piña">20 cl de jugo de piña</ingredient>
+      <ingredient quantity="20" unit="cl" food="jugo de manzana">20 cl de jugo de manzana</ingredient>
+      <ingredient quantity="4" unit="" food="frambuesa">4 frambuesas</ingredient>
+      <ingredient quantity="4" unit="" food="cubos de hielo">4 cubos de hielo</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Vierte los jugos en una jarra, agrega las frambuesas para dar color y hielo para enfriar.</step>
+      <step>Sirve bien frío.</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Cóctel KidiCana</title>
+    <ingredients>
+      <ingredient quantity="5" unit="cl" food="jugo de manzana">5 cl de jugo de manzana</ingredient>
+      <ingredient quantity="1" unit="cl" food="jarabe de grosella">1 cl de jarabe de grosella</ingredient>
+      <ingredient quantity="1" unit="" food="hierba de limón">1 hierba de limón</ingredient>
+      <ingredient quantity="1" unit="" food="jengibre">1 jengibre</ingredient>
+      <ingredient quantity="5" unit="" food="cubos de hielo triturados">5 cubos de hielo triturados</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Pica la hierba de limón.</step>
+      <step>Coloca todos los ingredientes en una coctelera.</step>
+      <step>Añade la mitad del hielo triturado.</step>
+      <step>Agita y vierte en un vaso lleno del resto del hielo triturado.</step>
+      <step>¡Salud!</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Cóctel Paraíso</title>
+    <ingredients>
+      <ingredient quantity="10" unit="cl" food="jugo de naranja">10 cl de jugo de naranja</ingredient>
+      <ingredient quantity="4" unit="cl" food="vodka">4 cl de vodka</ingredient>
+      <ingredient quantity="2" unit="cl" food="pisang ambon">2 cl de pisang ambon</ingredient>
+      <ingredient quantity="2" unit="cl" food="jarabe de azúcar de caña">2 cl de jarabe de azúcar de caña</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Reúne los ingredientes, excepto el Pisang ambon, en una coctelera. Agita.</step>
+      <step>Vierte en una copa de cóctel y luego añade el Pisang.</step>
+      <step>Sirve bien frío.</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Cóctel Cava Vodka Limón</title>
+    <ingredients>
+      <ingredient quantity="10" unit="cl" food="cava">10 cl de cava</ingredient>
+      <ingredient quantity="2" unit="cl" food="vodka">2 cl de vodka</ingredient>
+      <ingredient quantity="2" unit="cl" food="limón">2 cl de limón</ingredient>
+      <ingredient quantity="1" unit="" food="corteza de limón">1 corteza de limón</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Mezcla el vodka y el jarabe de limón.</step>
+      <step>Vierte el cava en una copa de cava.</step>
+      <step>Revuelve suavemente la mezcla de vodka y limón.</step>
+      <step>Decora con la corteza de limón.</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Aperol Spritz: Cóctel italiano espumoso</title>
+    <ingredients>
+      <ingredient quantity="8" unit="cl" food="Prosecco">8 cl de Prosecco</ingredient>
+      <ingredient quantity="5" unit="cl" food="agua con gas">5 cl de agua con gas</ingredient>
+      <ingredient quantity="5" unit="" food="cubo de hielo">5 cubos de hielo</ingredient>
+      <ingredient quantity="1" unit="" food="naranja sanguina">1 naranja sanguina</ingredient>
+    </ingredients>
+    <preparation>
+      <step>¡Prepara la cantidad deseada de cóctel en las proporciones adecuadas!</step>
+      <step>Completa con hielo y un trozo de naranja (preferiblemente de naranja sanguina).</step>
+      <step>¡Salud!</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Cóctel Limoncello</title>
+    <ingredients>
+      <ingredient quantity="2" unit="" food="naranjas">2 naranjas</ingredient>
+      <ingredient quantity="5" unit="cl" food="ron ámbar">5 cl de ron ámbar</ingredient>
+      <ingredient quantity="1" unit="" food="licor de limón">1 cl de licor de limón</ingredient>
+      <ingredient quantity="0" unit="" food="cubo de hielo">cubo de hielo</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Vierte el ron oscuro en el vaso.</step>
+      <step>Exprime el jugo de las 2 naranjas y agrégalo al ron.</step>
+      <step>Añade la cantidad de licor de limón indicada, mezcla y agrega unos cubos de hielo.</step>
+      <step>¡Listo!</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Mojito Cubano</title>
+    <ingredients>
+      <ingredient quantity="3" unit="" food="azúcar de caña">3 cucharadas de azúcar de caña</ingredient>
+      <ingredient quantity="1" unit="" food="lima">0.5 lima</ingredient>
+      <ingredient quantity="1" unit="" food="menta">1 hoja de menta</ingredient>
+      <ingredient quantity="0" unit="" food="agua con gas">3 cl de agua con gas</ingredient>
+      <ingredient quantity="0" unit="" food="ron">6 cl de ron</ingredient>
+      <ingredient quantity="2" unit="" food="cubo de hielo">2 cubos de hielo</ingredient>
+    </ingredients>
+    <preparation>
+      <step>En un vaso de tamaño mediano (capacidad de 40 cl), coloca 3 cucharadas de azúcar.</step>
+      <step>Agrega el jugo de 1/2 lima.</step>
+      <step>Corta en 3 o 4 partes tu ramita de menta y colócala en el vaso (cortarla ayuda a que el sabor de la menta se distribuya mejor).</step>
+      <step>Añade un poco de agua con gas (aproximadamente 3 cl) y luego, con una cuchara, mezcla bien y machaca la menta (insiste más en las ramitas que en las hojas, de lo contrario, quedarán pequeños trozos de menta desagradables al disfrutar del cóctel).</step>
+      <step>Agrega unos 5 cubos de hielo.</step>
+      <step>Luego, vierte 6 cl de ron (contando hasta 5 para una dosis más fuerte y hasta 4 para una dosis más suave).</step>
+      <step>Finalmente, completa con agua con gas.</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Delicioso cóctel tropical</title>
+    <ingredients>
+      <ingredient quantity="0.25" unit="cl" food="jugo de naranja">0.25 cl de jugo de naranja</ingredient>
+      <ingredient quantity="0.25" unit="cl" food="jugo de pomelo">0.25 cl de jugo de pomelo</ingredient>
+      <ingredient quantity="0.25" unit="cl" food="jugo de piña">0.25 l de jugo de piña</ingredient>
+      <ingredient quantity="1" unit="" food="limón">1 limón</ingredient>
+      <ingredient quantity="20" unit="cl" food="ron Malibú">20 cl de ron Malibú</ingredient>
+      <ingredient quantity="5" unit="cl" food="Granadina">5 cl de Granadina</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Para 1 vaso:</step>
+      <step>Vierte 5 cl de Malibú y luego agrega 1/3 de pomelo, 1/3 de naranja y 1/3 de piña, después agrega una pizca de jugo de limón y 1 pizca de granadina para decorar.</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Cóctel Champagneisée</title>
+    <ingredients>
+      <ingredient quantity="4" unit="l" food="vino espumoso">4 l de vino espumoso</ingredient>
+      <ingredient quantity="1" unit="l" food="cointreau">0.5 l de cointreau</ingredient>
+      <ingredient quantity="12" unit="" food="limón">12 limones</ingredient>
+      <ingredient quantity="200" unit="g" food="jarabe de azúcar de caña">30 cl de jarabe de azúcar de caña</ingredient>
+      <ingredient quantity="0" unit="" food="cubo de hielo">cubo de hielo</ingredient>
+    </ingredients>
+    <preparation>
+      <step>En un tazón grande, vierte el Cointreau, el jugo de limón con la pulpa y el jarabe de azúcar de caña.</step>
+      <step>Vierte el espumoso al final.</step>
+      <step>Agrega hielo.</step>
+      <step>Sirve en vasos fríos (lo ideal es enfriarlos antes).</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Cóctel Negroni</title>
+    <ingredients>
+      <ingredient quantity="3" unit="cl" food="campari">3 cl de campari</ingredient>
+      <ingredient quantity="3" unit="cl" food="ginebra">3 cl de ginebra</ingredient>
+      <ingredient quantity="0.5" unit="cl" food="Angostura bitter">0.5 cl de Angostura bitter</ingredient>
+      <ingredient quantity="25" unit="cl" food="refresco suave">25 cl de refresco suave</ingredient>
+      <ingredient quantity="0" unit="" food="cubo de hielo">cubo de hielo</ingredient>
+      <ingredient quantity="1" unit="" food="naranja">1 rodaja de naranja</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Combina los ingredientes en un vaso alto y sirve.</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Cóctel de jugo de frutas para niños</title>
+    <ingredients>
+      <ingredient quantity="5" unit="cdt" food="jugo de piña">5 cucharaditas de jugo de piña</ingredient>
+      <ingredient quantity="3" unit="cda" food="jugo de manzana">3 cucharadas de jugo de manzana</ingredient>
+      <ingredient quantity="2" unit="" food="cubo de hielo">cubo de hielo</ingredient>
+      <ingredient quantity="1" unit="" food="piña">1 piña</ingredient>
+      <ingredient quantity="1" unit="" food="manzana">1 manzana</ingredient>
+      <ingredient quantity="1" unit="cdt" food="azúcar glas">1 cucharadita de azúcar glas</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Pon el jugo de manzana y el jugo de piña en un vaso alto y mezcla.</step>
+      <step>Agrega el azúcar glas y revuelve de nuevo, luego agrega hielo.</step>
+      <step>Deja reposar en la nevera durante 5 minutos.</step>
+      <step>Cuando sirvas, coloca las rodajas de piña y manzana en el borde del vaso como decoración.</step>
+    </preparation>
+  </recipe>
+  <recipe>
+    <title>Crema criolla (cóctel)</title>
+    <ingredients>
+      <ingredient quantity="4" unit="cl" food="ron blanco">4 cl de ron blanco</ingredient>
+      <ingredient quantity="4" unit="cl" food="Vermouth">4 cl de Vermouth</ingredient>
+      <ingredient quantity="2" unit="cl" food="jugo de limón">2 cl de jugo de limón</ingredient>
+      <ingredient quantity="2" unit="cl" food="granadina">2 cl de granadina</ingredient>
+    </ingredients>
+    <preparation>
+      <step>Vierte el ron, el vermut, el jugo de limón y la granadina.</step>
+    </preparation>
+  </recipe>
+  <recipe>
+  <title>Cóctel de frutas con lima</title>
+  <ingredients>
+    <ingredient quantity="10" unit="cl" food="leche de coco">10 cl de leche de coco</ingredient>
+    <ingredient quantity="20" unit="cl" food="jugo multivitamínico">20 cl de jugo multivitamínico</ingredient>
+    <ingredient quantity="1" unit="cdt" food="jugo de lima">1 cucharadita de jugo de lima</ingredient>
+    <ingredient quantity="0" unit="" food="cubo de hielo">cubo de hielo</ingredient>
+    <ingredient quantity="1" unit="" food="lima">1 lima</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Vierte 10 cl de leche de coco y 20 cl de jugo multivitamínico en una coctelera.</step>
+    <step>Agrega una cucharadita de jugo de lima y algunos cubos de hielo.</step>
+    <step>Mezcla bien y sirve en una copa de cóctel; decora con una rodaja de lima.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel White Russian</title>
+  <ingredients>
+    <ingredient quantity="30" unit="cl" food="vodka">30 cl de vodka</ingredient>
+    <ingredient quantity="20" unit="cl" food="Creme de café">20 cl de Crema de café</ingredient>
+    <ingredient quantity="30" unit="cl" food="leche entera">30 cl de leche entera</ingredient>
+    <ingredient quantity="0" unit="" food="cubo de hielo">cubos de hielo</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Pon en una licuadora 20 cl de crema de café, 30 cl de vodka y 30 cl de leche.</step>
+    <step>Agrega cubos de hielo y licua durante unos segundos para que se forme espuma en la leche.</step>
+    <step>¡Disfruta de este cóctel frío!</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Margarita</title>
+  <ingredients>
+    <ingredient quantity="5" unit="cl" food="tequila">5 cl de tequila</ingredient>
+    <ingredient quantity="3" unit="cl" food="triple sec">3 cl de triple sec</ingredient>
+    <ingredient quantity="2" unit="cl" food="jugo de lima">2 cl de jugo de lima</ingredient>
+    <ingredient quantity="" unit="" food="sal">sal</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Humedece el borde de una copa de cóctel con jugo de lima y sumérgelo en sal.</step>
+    <step>Agita todos los ingredientes con hielo, cuela en la copa y sirve.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Arcoíris</title>
+  <ingredients>
+    <ingredient quantity="10" unit="cl" food="jugo de naranja">10 cl de jugo de naranja</ingredient>
+    <ingredient quantity="3" unit="cl" food="vodka">3 cl de vodka</ingredient>
+    <ingredient quantity="3" unit="cl" food="granadina">3 cl de Granadina</ingredient>
+    <ingredient quantity="2" unit="cl" food="Curacao azul">2 cl de Curacao azul</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Receta para 10 vasos. Vierte la granadina en una coctelera, llena la coctelera con hielo hasta 2/3, agrega el vodka, vierte el jugo de naranja. Termina de llenar la coctelera con cubos de hielo. Vierte cuidadosamente el curacao, para que no se mezcle, vierte la mezcla en vasos alineados sin detenerse.</step>
+    <step>Sirve en vasos tipo cóctel.</step>
+    <step>El color del contenido de cada vaso será diferente, creando un hermoso efecto visual de gradiente tipo arcoíris de un vaso a otro. También se llama Rainbow Shot o Doble Arcoíris.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Domingos de Nieve</title>
+  <ingredients>
+    <ingredient quantity="10" unit="" food="frambuesa">10 frambuesas</ingredient>
+    <ingredient quantity="2" unit="" food="grosella">2 grosellas</ingredient>
+    <ingredient quantity="0.5" unit="" food="pomelo">0.5 pomelo</ingredient>
+    <ingredient quantity="1" unit="" food="naranja">1 naranja</ingredient>
+  </ingredients>
+  <preparation>
+    <step>En el fondo de una copa bonita, coloca las frambuesas y el jarabe.</step>
+    <step>Agrega el jugo de naranja y el pomelo rápidamente.</step>
+    <step>Sirve frío y observa la nieve a través de la ventana, preguntándote si, de hecho, saldrá hoy.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Ginger Cosmo</title>
+  <ingredients>
+    <ingredient quantity="12" unit="g" food="jengibre">12 g de jengibre</ingredient>
+    <ingredient quantity="3" unit="cl" food="vodka">3 cl de vodka</ingredient>
+    <ingredient quantity="2" unit="cl" food="triple sec">2 cl de triple sec</ingredient>
+    <ingredient quantity="2" unit="cl" food="jugo de lima">2 cl de jugo de lima</ingredient>
+    <ingredient quantity="2" unit="cl" food="jugo de arándano">2 cl de jugo de arándano</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Esta receta se prepara en una coctelera y un mortero.</step>
+    <step>Pela el jengibre y machácalo groseramente. Golpéalo en el fondo de la coctelera para extraer el máximo jugo.</step>
+    <step>Agrega los ingredientes restantes con hielo, cierra la coctelera y agita durante al menos 10 segundos.</step>
+    <step>Vierte en una copa de cóctel tipo martini filtrando bien.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel de Whiskey Rosa</title>
+  <ingredients>
+    <ingredient quantity="400" unit="g" food="frambuesa">400 g de frambuesa</ingredient>
+    <ingredient quantity="6" unit="" food="cilantro">6 cilantros</ingredient>
+    <ingredient quantity="5" unit="cl" food="Whiskey">5 cl de Whiskey</ingredient>
+    <ingredient quantity="15" unit="cl" food="Crema agria">15 cl de Crema agria</ingredient>
+    <ingredient quantity="20" unit="g" food="nuez de pistacho">20 g de nuez de pistacho</ingredient>
+  </ingredients>
+  <preparation>
+    <step>1. Mezcla las frambuesas con la crema y 15 ml de agua helada. Distribuye la mezcla en vasos.</step>
+    <step>2. Agrega una pizca de whiskey y espolvorea con pistachos picados. Decora con una ramita de cilantro y mantén fresco hasta que esté listo para servir.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel de Toronja y Menta</title>
+  <ingredients>
+    <ingredient quantity="1" unit="" food="toronja">1 toronja</ingredient>
+    <ingredient quantity="2" unit="" food="cubo de hielo">2 cubos de hielo triturado</ingredient>
+    <ingredient quantity="2" unit="cdt" food="azúcar moreno">2 cucharaditas de azúcar moreno</ingredient>
+    <ingredient quantity="10" unit="" food="menta">10 hojas de menta</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Exprime el jugo de la toronja, vierte el jugo en la licuadora, agrega los ingredientes restantes y ¡mezcla todo!</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel de Frutas</title>
+  <ingredients>
+    <ingredient quantity="1" unit="" food="plátano">1 plátano</ingredient>
+    <ingredient quantity="1" unit="" food="manzana">1 manzana</ingredient>
+    <ingredient quantity="2" unit="" food="kiwi">2 kiwis</ingredient>
+    <ingredient quantity="30" unit="cl" food="agua">30 cl de agua</ingredient>
+    <ingredient quantity="15" unit="g" food="azúcar de vainilla">15 g de azúcar de vainilla</ingredient>
+    <ingredient quantity="15" unit="g" food="azúcar moreno">15 g de azúcar moreno</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Pela y corta las frutas en trozos.</step>
+    <step>Colócalas en la licuadora (u otro recipiente para cócteles) y mezcla todo, añadiendo agua poco a poco hasta obtener la consistencia deseada (me gusta cuando está un poco espeso).</step>
+    <step>Luego agrega el azúcar de vainilla y el azúcar moreno, al gusto.</step>
+    <step>Mezcla una última vez para que el azúcar se mezcle bien con la mezcla.</step>
+    <step>Enfría durante una hora y ¡disfruta!</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel de Champagne Menta y Lima</title>
+  <ingredients>
+    <ingredient quantity="10" unit="cl" food="champán">10 cl de champán</ingredient>
+    <ingredient quantity="0" unit="" food="cubo de hielo">cubo de hielo</ingredient>
+    <ingredient quantity="1" unit="cdt" food="jugo de lima">1 cucharadita de jugo de lima</ingredient>
+    <ingredient quantity="2" unit="" food="menta">2 hojas de menta</ingredient>
+    <ingredient quantity="1" unit="" food="cáscara de limón">1 cáscara de limón</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Coloca hielo en un vaso a gusto. Agrega una hoja de menta cortada por la mitad y una hoja completa para decorar. Agrega el jugo de lima y luego el champán con cuidado. Deja reposar 2 minutos para que el sabor se mezcle. ¡Luego disfruta!</step>
+  </preparation>
+  </recipe>
+  <recipe>
+  <title>Bloody Mary</title>
+  <ingredients>
+    <ingredient quantity="4" unit="cl" food="vodka">4 cl de vodka</ingredient>
+    <ingredient quantity="12" unit="cl" food="jugo de tomate">12 cl de jugo de tomate</ingredient>
+    <ingredient quantity="0.5" unit="cl" food="jugo de limón">0.5 cl de jugo de limón</ingredient>
+    <ingredient quantity="0.5" unit="cl" food="salsa Worcestershire">0.5 cl de salsa Worcestershire</ingredient>
+    <ingredient quantity="" unit="" food="salsa Tabasco">salsa Tabasco</ingredient>
+    <ingredient quantity="" unit="" food="sal de apio">sal de apio</ingredient>
+    <ingredient quantity="" unit="" food="pimienta">pimienta</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Combina el jugo de tomate, el vodka y el jugo de limón.</step>
+    <step>Sazona con sal de apio, pimienta y salsa Tabasco si lo deseas.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Tequila Sunrise</title>
+  <ingredients>
+    <ingredient quantity="6" unit="cl" food="tequila">6 cl de tequila</ingredient>
+    <ingredient quantity="12" unit="cl" food="jugo de naranja">12 cl de jugo de naranja</ingredient>
+    <ingredient quantity="2" unit="cl" food="Grenadina">2 cl de jarabe de granadina</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Vierte tequila en un vaso highball con hielo y agrega jugo de naranja.</step>
+    <step>Revuelve.</step>
+    <step>Agrega la granadina inclinando el vaso y vertiendo la granadina por el costado, volteando la botella rápidamente de manera vertical.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel de frutas con frambuesas</title>
+  <ingredients>
+    <ingredient quantity="1" unit="l" food="vino blanco">1 l de vino blanco</ingredient>
+    <ingredient quantity="2" unit="l" food="vino espumoso">2 l de vino espumoso</ingredient>
+    <ingredient quantity="250" unit="g" food="frambuesa">250 g de frambuesas</ingredient>
+    <ingredient quantity="4" unit="cdt" food="azúcar">4 cucharaditas de azúcar</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla el vino blanco, el vino espumoso y el azúcar.</step>
+    <step>Añade frambuesas congeladas...</step>
+    <step>Prueba, está muy fresco...</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Cardinal</title>
+  <ingredients>
+    <ingredient quantity="0" unit="" food="cubo de hielo">cubo de hielo triturado</ingredient>
+    <ingredient quantity="3" unit="cl" food="campari">3 cl de campari</ingredient>
+    <ingredient quantity="3" unit="cl" food="Noilly Prat">3 cl de Noilly Prat</ingredient>
+    <ingredient quantity="3" unit="cl" food="Gin">3 cl de ginebra</ingredient>
+  </ingredients>
+  <preparation>
+    <step>En una coctelera, llena con hielo a la mitad. Vierte los ingredientes.</step>
+    <step>Agita.</step>
+    <step>Sirve en una copa de cóctel y agrega la ralladura de limón.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Cóctel Anapomise</title>
+  <ingredients>
+    <ingredient quantity="25" unit="cl" food="jugo de cereza">25 cl de jugo de cereza</ingredient>
+    <ingredient quantity="25" unit="cl" food="jugo de manzana">25 cl de jugo de manzana</ingredient>
+    <ingredient quantity="25" unit="cl" food="jugo de piña">25 cl de jugo de piña</ingredient>
+    <ingredient quantity="2" unit="cl" food="aguardiente de ciruela">2 cl de aguardiente de ciruela</ingredient>
+    <ingredient quantity="2" unit="cl" food="azúcar de caña">2 cl de azúcar de caña</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla todos los ingredientes y sirve frío.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Daiquiri</title>
+  <ingredients>
+    <ingredient quantity="4" unit="cl" food="ron blanco">4 cl de ron blanco</ingredient>
+    <ingredient quantity="2" unit="cl" food="jugo de lima">2 cl de jugo de lima</ingredient>
+    <ingredient quantity="1" unit="cl" food="jarabe de azúcar">1 cl de jarabe de azúcar de caña</ingredient>
+    <ingredient quantity="" unit="" food="hielo">hielo</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Vierte el ron, el jugo de lima y el jarabe de azúcar en una coctelera con cubos de hielo.</step>
+    <step>Agita bien.</step>
+    <step>Cuela en una copa de cóctel fría.</step>
+  </preparation>
+</recipe>
+  <recipe>
+  <title>Sangría sin alcohol</title>
+  <ingredients>
+    <ingredient quantity="8" unit="cl" food="jarabe de sangría">8 cl de jarabe de sangría</ingredient>
+    <ingredient quantity="100" unit="cl" food="jugo de uva">100 cl de jugo de uva</ingredient>
+    <ingredient quantity="20" unit="cl" food="jugo de naranja">20 cl de jugo de naranja</ingredient>
+    <ingredient quantity="10" unit="cl" food="jugo de limón">10 cl de jugo de limón</ingredient>
+    <ingredient quantity="" unit="" food="frutas">frutas de temporada</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Mezcla el jarabe y los jugos en un recipiente grande.</step>
+    <step>Agrega las frutas de temporada cortadas.</step>
+    <step>Coloca en el refrigerador durante 4 horas antes de servir.</step>
+  </preparation>
+</recipe>
+ <recipe>
+  <title>Cóctel Tropical Sunshine</title>
+  <ingredients>
+    <ingredient quantity="10" unit="cl" food="jugo de piña">10 cl de jugo de piña</ingredient>
+    <ingredient quantity="5" unit="cl" food="jugo de naranja">5 cl de jugo de naranja</ingredient>
+    <ingredient quantity="2" unit="cl" food="jarabe de grosella">2 cl de jarabe de grosella</ingredient>
+    <ingredient quantity="1" unit="cdt" food="coco">1 cucharadita de coco</ingredient>
+    <ingredient quantity="0" unit="" food="hielo">hielo</ingredient>
+  </ingredients>
+  <preparation>
+    <step>Vierte los jugos de frutas y el jarabe de grosella en un vaso grande.</step>
+    <step>Agrega unos cubos de hielo y espolvorea con coco rallado.</step>
+  </preparation>
+</recipe>
+</recipes>
+
+
+
+
+
