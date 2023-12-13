@@ -67,9 +67,3 @@ def get_locale():
         return user_language
     return request.accept_languages.best_match(['en', 'es'])
 
-"""
-app.config['DEBUG_TB_ENABLED'] = True
-app.config['DEBUG_TB_INTERCEPT_REDIRECTS'] = False  # Opcional, evita interferencias con redireccionamientos
-toolbar = DebugToolbarExtension(app)
-pip install flask-debugtoolbar
-"""
